@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+
+#main{
+    text-align: center;
+}
+
+#circle, #square{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 3px solid black;
+}
+
+#circle{
+    border-radius: 50%;
+}
